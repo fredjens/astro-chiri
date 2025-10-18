@@ -4,6 +4,7 @@
   "version": "0.5.0",
   "license": "MIT",
   "scripts": {
+    "start": "node ./dist/server/entry.mjs",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
